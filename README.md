@@ -6,7 +6,7 @@
 
 <p align="center"> BLUE-BEETLE A Simple WhatsApp user BOT, Created by 𝑪𝑨𝑹𝑳 𝑾𝑰𝑳𝑳𝑰𝑨𝑴.
 <p align="centre"> Please follow the steps below to avoid bot sleeping  
-<img src="https://telegra.ph/file/2dbd04ee414c874ec62de.jpg" width="700" height="600"/>
+<img src="https://telegra.ph/file/e8eb609008a2b6e4445c1.jpg" width="700" height="600"/>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   `
 
@@ -37,14 +37,14 @@ Contributions to BLUE-BEETLE are welcome! If you have ideas for new features, im
 
 ## License
 
-The Carl-shark MD is released under the [`MIT License`](https://opensource.org/licenses/MIT).
+The BLUR-BEETLE 🐞 released under the [`MIT License`](https://opensource.org/licenses/MIT).
 
 Enjoy the diverse features of the CarlTech  to enhance your conversations and make your WhatsApp experience more interesting!
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ## Developer INFO:
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
    CONTACT CARLTECH HERE 
 ➡️➡️[`𝑪𝑨𝑹𝑳𝑻𝑬𝑪𝑯`](https://github.com/Carl165/CARLTECH-INFO)⬅️⬅️TAP HERE TO CONTACT ME 
 
