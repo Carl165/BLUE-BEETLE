@@ -1,2 +1,2 @@
 # BLUE-BEETLE
->h1 align=centre"
+<h1 align=centre" BLUE BEETLE LOADING
