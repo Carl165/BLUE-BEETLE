@@ -1,11 +1,11 @@
- <h1 align="center"> 𝑪𝑨𝑹𝑳 𝑾𝑰𝑳𝑳𝑰𝑨𝑴`𝑺 𝑪𝑶𝑫𝑬 </h1> 
+ <h1 align="center"> 𝗔 𝗖𝗢𝗗𝗘 𝗕𝗬 𝗖𝗔𝗥𝗟 </h1> 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=BLUE+BEETLE+𝗕𝗬+𝗖𝗔𝗥𝗟)](https://git.io/typing-svg)
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 <p align="center"> BLUE-BEETLE A Simple WhatsApp user BOT, Created by 𝑪𝑨𝑹𝑳 𝑾𝑰𝑳𝑳𝑰𝑨𝑴.
-<p align="centre"> Please follow the steps below to avoid bot sleeping  
+
 <img src="https://telegra.ph/file/e8eb609008a2b6e4445c1.jpg" width="700" height="600"/>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   `
@@ -15,7 +15,7 @@
  
 1✅️, Fork the repo to encourage the [`❣️💞💜💚💙𝑫𝑬𝑽𝑬𝑳𝑶𝑷𝑬𝑹🌟🦾🤖`](https://github.com/Carl165) 
 
-   ***Click➡️⏩️ [`𝑭𝑶𝑹𝑲🍴`](https://github.com/Carl165/BLUE-BEETLE/fork) and `Star ☆repository`for encouragement.***
+   ***Click➡️⏩️ [`𝗙𝗢𝗥𝗞🍴`](https://github.com/Carl165/BLUE-BEETLE/fork) and `Star ☆repository`for encouragement.***
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗦𝗘𝗦𝗦𝗜𝗢𝗡+𝗜𝗗+𝗦𝗜𝗧𝗘+𝗜𝗦+𝗛𝗘𝗥𝗘)](https://git.io/typing-svg)
@@ -27,7 +27,7 @@
 
 
 
-  3:⚙️ 🦁TO DEPLOY YOUR BOT🦁***Now [`𝑫𝑬𝑷𝑳𝑶𝒀 𝐎𝐍 𝐇𝐄𝐑𝐎𝐊𝐔✅️`](https://dashboard.heroku.com/new?template=https://github.com/Carl165/BLUE-BEETLE/edit/tree/main?tab=readme-ov-file).***
+  3:⚙️ 🦁TO DEPLOY YOUR BOT🦁***Now [`𝗗𝗘𝗣𝗟𝗢𝗬 𝗢𝗡 𝗛𝗘𝗥𝗢𝗞𝗨✅️`](https://dashboard.heroku.com/new?template=https://github.com/Carl165/BLUE-BEETLE/edit/tree/main?tab=readme-ov-file).***
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
@@ -47,9 +47,6 @@ Enjoy the diverse features of the CarlTech  to enhance your conversations and ma
 
    CONTACT CARLTECH HERE 
 ➡️➡️[`𝑪𝑨𝑹𝑳𝑻𝑬𝑪𝑯`](https://github.com/Carl165/CARLTECH-INFO)⬅️⬅️TAP HERE TO CONTACT ME 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗧𝗛𝗔𝗡𝗞𝗦+𝗧𝗢+𝗧𝗛𝗘+𝗙𝗢𝗟𝗟𝗢𝗪𝗜𝗡𝗚+💙💙💞)](https://git.io/typing-svg)
-
 
 
 
